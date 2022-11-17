@@ -149,8 +149,10 @@ TW_EXTRA_LANGUAGES := true
 TARGET_USES_MKE2FS := true
 TW_OZIP_DECRYPT_KEY := 0000
 TW_INCLUDE_LOGICAL := my_bigball my_carrier my_company my_custom my_engineering my_heytap my_manifest my_preload my_product my_region my_stock common_preload special_preload
-TW_Y_OFFSET := 115
-TW_H_OFFSET := -115
+TW_STATUS_ICONS_ALIGN := center
+TW_Y_OFFSET := 20
+TW_H_OFFSET := -20
+TW_CUSTOM_CPU_POS := 170
 TW_NO_HAPTICS := false
 
 # Other flags
